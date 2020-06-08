@@ -22,7 +22,7 @@ public class PetProvider extends ContentProvider {
     @Override
     public boolean onCreate() {
         // TODO: Create and initialize a PetDbHelper object to gain access to the pets database.
-        mDbHelper = new PetDbHelper(this);
+//        mDbHelper = new PetDbHelper(this);
         // Make sure the variable is a global variable, so it can be referenced from other
         // ContentProvider methods.
         return true;
