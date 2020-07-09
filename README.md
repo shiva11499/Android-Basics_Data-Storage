@@ -1,7 +1,7 @@
 Pets App
 ===================================
 
-This app displays a list of pets and their related data that the user inputs.\
+This app displays a list of pets and their related data that the user inputs.
 - Uses SQLite3 to maintain a DataBase
 - Uses ContentProviders for better performance
 - Uses AlertDialog for optimization
